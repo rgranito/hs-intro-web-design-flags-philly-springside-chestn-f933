@@ -144,6 +144,7 @@ float: left
 #f1 {
   background-color: blue;
 float: left;
+  margin-right: 266px;
 }
 
 #f2 {
@@ -152,6 +153,32 @@ float: left
 }
 
 /* Benin */
+#benin div {
+
+}
+
+#b1 {
+  background-color: green;
+  float: left;
+  height: 350px;
+  width: 200px
+}
+
+#b2 {
+  background-color: red;
+  height: 175px;
+  width: 800px
+
+}
+
+#b3 {
+  background-color: yellow;
+  height: 175px;
+  width: 800px
+}
+
+
+
 
 /* UAE */
 
